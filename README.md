@@ -215,7 +215,14 @@ This approach helps create an accessible, supportive environment that aligns wit
 
 ---
 ## Technologies Used
- 
+
+ - HTML5
+ - CSS3
+ - Bootstrap 5
+ - Font Awesome
+ - Google Fonts
+ - GitHub & Git
+ - Copilot (image creation & code debugging)
 ---
 ## Deployment
 
