@@ -230,4 +230,9 @@ This approach helps create an accessible, supportive environment that aligns wit
 ## Testing
 
 ---
-## Credits
+## Credits & Attributions
+
+- All images were generated with Micorsoft Co-pilot
+- Bootstrap framework were used throughout the project
+- Font Awesome icons were implemented
+- Google FOnts were imported into the project
