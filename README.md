@@ -20,6 +20,214 @@ Designed with a clean, calming interface and a mobile-first approach, Lucid Mind
 
 ### User Stories
 
+Must Have 
+These are essential:
+
+**US1 – Navigation**
+
+User Story
+
+As a visitor, I want a clear navigation menu so that I can quickly access different sections of the webpage.
+
+Acceptance Criteria
+
+- Navigation is visible at the top of the page. 
+- Navigation links scroll to the correct section. 
+- Navigation works on desktop and mobile devices. 
+
+Tasks
+
+- Create Bootstrap navbar. 
+- Add section anchor links. 
+- Test all navigation links. 
+- Ensure responsive behaviour. 
+
+**US2 – Hero Section**
+
+User Story
+
+As a first-time visitor, I want an engaging introduction so that I immediately understand the purpose of the website.
+
+Acceptance Criteria
+
+- Hero section contains a clear heading. 
+- Hero contains a short supporting paragraph. 
+- Call-to-action button scrolls to the About section. 
+- Background and text meet accessibility standards. 
+
+Tasks
+
+- Create hero section. 
+- Add headline. 
+- Add introductory text. 
+- tyle CTA button. 
+- Apply accessible colours. 
+
+**US3 – Mental Health Information**
+
+User Story
+
+As a visitor, I want easy-to-understand information about mental health so that I can develop a basic understanding of the topic.
+
+Acceptance Criteria
+
+- About section explains mental health. 
+- Information is concise. 
+- Content uses semantic headings. 
+- Text is easy to read. 
+
+Tasks
+
+- Write About content. 
+- Add heading. 
+- Format paragraphs. 
+- Apply spacing. 
+
+**US4 – Common Mental Health Challenges**
+
+User Story
+
+As a visitor, I want information about common mental health challenges so that I can recognise some common experiences.
+
+Acceptance Criteria
+
+- Three information cards are displayed. 
+- Each card contains a heading. 
+- Each card includes a short explanation. 
+- Cards stack correctly on mobile devices. 
+
+Tasks
+
+- Create Bootstrap cards. 
+- Add content. 
+- Make responsive. 
+- Style consistently. 
+
+**US5 – Self-Care Tips**
+
+User Story
+
+As a visitor, I want practical wellbeing tips so that I can learn simple ways to support my mental health.
+
+Acceptance Criteria
+
+- Tips are presented as a clear list. 
+- Information is easy to scan. 
+- List remains readable on smaller screens. 
+
+Tasks
+
+- Create list group. 
+- Add self-care tips. 
+- Apply spacing. 
+- Test responsiveness. 
+
+**US6 – Accessibility**
+
+User Story
+
+As a user, I want the website to be accessible so that I can easily read and navigate the content.
+
+Acceptance Criteria
+
+- Colour contrast meets WCAG AAA standards. 
+- Images include alternative text. 
+- Semantic HTML is used. 
+- Keyboard navigation functions correctly. 
+
+Tasks
+
+- Check colour contrast. 
+- Add alt text. 
+- Validate heading order. 
+- Test keyboard navigation. 
+
+**US7 – Responsive Design**
+
+User Story
+
+As a visitor using different devices, I want the website to display correctly on any screen size.
+
+Acceptance Criteria
+
+- Layout adapts to mobile, tablet and desktop. 
+- Navigation remains usable. 
+- Images resize correctly. 
+- No horizontal scrolling occurs. 
+
+Tasks
+
+- Apply Bootstrap grid. 
+- Test breakpoints. 
+- Adjust spacing. 
+- Optimise images. 
+
+Should Have 
+
+These improve the user experience but are not essential.
+
+**US8 – Helpful Resources**
+
+User Story
+
+As a visitor, I want links to trusted organisations so that I can access further support if needed.
+
+Acceptance Criteria
+
+- Resource section contains trusted organisations. 
+- Links open in a new tab. 
+- Buttons are clearly labelled. 
+
+Tasks
+
+- Add resource buttons. 
+- Link to official websites. 
+- Test links. 
+
+**US9 – Contact Form**
+
+User Story
+
+As a visitor, I want to provide feedback so that I can suggest improvements to the webpage.
+
+Acceptance Criteria
+
+- Form includes Name, Email and Message. 
+- Submit button is visible. 
+- Form layout is responsive. 
+
+Tasks
+
+- Build Bootstrap form. 
+- Add labels. 
+- Style form. 
+- Test responsiveness. 
+
+Could Have 
+
+Optional features if time allows.
+
+**US10 – Positive Affirmation**
+
+User Story
+
+As a visitor, I want to read an encouraging message so that I leave the website feeling supported.
+
+Acceptance Criteria
+
+- Affirmation section contains positive messaging. 
+- Section uses calming colours. 
+- Text is centred and easy to read. 
+
+Tasks
+
+- Create affirmation section. 
+- Add quotation. 
+- Style background. 
+
+
+
+
 ### Strategy Plane
 
 **Project Goal**
