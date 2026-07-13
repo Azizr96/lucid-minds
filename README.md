@@ -15,6 +15,10 @@ The website provides accessible, beginner-friendly information on common mental 
 Designed with a clean, calming interface and a mobile-first approach, Lucid Minds delivers a consistent and user-friendly experience across desktop, tablet, and mobile devices.
 
 ---
+## Contents
+
+
+
 
 ## UX (User Experience)
 
@@ -170,9 +174,15 @@ To improve usability, the interface includes:
 ![Colour palette for the Lucid Minds website displaying the off-white background, white surface, dark slate primary text, slate secondary text, deep teal primary colour, navy secondary colour, darker hover states, and light grey border colour chosen to support a calm, accessible design.](assets/images/color-pallete.png)
 
 The palette was selected to promote feelings of trust, calmness, and clarity while maintaining strong colour contrast.
+
 **Imagery**
 
 Images and icons are used sparingly to support content without distracting from it. Decorative imagery reinforces the theme of wellbeing, while all meaningful images include descriptive alternative text.
+
+**Typography**
+
+![Roboto google font example](assets/images/font-style.png)
+Google fonts 'Roboto font' used for clear readable and accessible features
 
 **Layout**
 
@@ -191,3 +201,18 @@ The interface adopts a minimalist design with:
 - limited animations to reduce cognitive load
 
 This approach helps create an accessible, supportive environment that aligns with the website's purpose of promoting mental health awareness and wellbeing.
+
+## Website Features
+
+
+## Tablet/Mobile View
+
+## Future Features
+
+## Technologies Used
+
+## Deployment
+
+## Testing
+
+## Credits
