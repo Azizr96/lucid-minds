@@ -10,7 +10,7 @@ Live Link: [Lucid Minds - Mental Health Awareness]
 
 Lucid Minds is a fully responsive, single-page website built with HTML, CSS, and the Bootstrap framework. It was created as part of Code Institute's first individual assessment to demonstrate responsive web design, semantic HTML, and modern CSS techniques.
 
-The website provides accessible, beginner-friendly information on common mental health topics, including stress, anxiety, burnout, and depression. It also offers practical wellness tips and signposts users to trusted external support resources.
+The website provides accessible, beginner-friendly information on common mental health topics, including stress, anxiety and low mood. It also offers practical wellness tips and signposts users to trusted external support resources.
 
 Designed with a clean, calming interface and a mobile-first approach, Lucid Minds delivers a consistent and user-friendly experience across desktop, tablet, and mobile devices.
 
