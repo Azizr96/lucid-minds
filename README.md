@@ -20,7 +20,8 @@ Designed with a clean, calming interface and a mobile-first approach, Lucid Mind
 
 ### User Stories
 
-Must Have 
+*Must Have* 
+
 These are essential:
 
 **US1 – Navigation**
@@ -162,7 +163,7 @@ Tasks
 - Adjust spacing. 
 - Optimise images. 
 
-Should Have 
+*Should Have*
 
 These improve the user experience but are not essential.
 
@@ -203,7 +204,7 @@ Tasks
 - Style form. 
 - Test responsiveness. 
 
-Could Have 
+*Could Have* 
 
 Optional features if time allows.
 
