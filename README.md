@@ -15,10 +15,6 @@ The website provides accessible, beginner-friendly information on common mental 
 Designed with a clean, calming interface and a mobile-first approach, Lucid Minds delivers a consistent and user-friendly experience across desktop, tablet, and mobile devices.
 
 ---
-## Contents
-
-
-
 
 ## UX (User Experience)
 
@@ -202,17 +198,29 @@ The interface adopts a minimalist design with:
 
 This approach helps create an accessible, supportive environment that aligns with the website's purpose of promoting mental health awareness and wellbeing.
 
+--- 
+## Contents
+
+
+
+
+---
 ## Website Features
 
-
+---
 ## Tablet/Mobile View
 
+---
 ## Future Features
 
+---
 ## Technologies Used
-
+ 
+---
 ## Deployment
 
+---
 ## Testing
 
+---
 ## Credits
