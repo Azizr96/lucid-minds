@@ -4,7 +4,7 @@ This website was developed as part of Code Institute's first individual assessme
 
 Live Link: [Lucid Minds - Mental Health Awareness]
 
---
+---
 
 ## Description
 
@@ -14,6 +14,10 @@ The website provides accessible, beginner-friendly information on common mental 
 
 Designed with a clean, calming interface and a mobile-first approach, Lucid Minds delivers a consistent and user-friendly experience across desktop, tablet, and mobile devices.
 
+---
+
 ## Wireframes
 
 ![Lucid Minds wireframes mock up layout of webpage on mobile, tablet and desktop](assets/images/Wireframes.jpg)
+
+---
