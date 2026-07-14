@@ -200,6 +200,11 @@ padding: 10px
 .btn-resource:focus-visible {
   box-shadow: 0 0 0 0.2rem rgba(17, 94, 89, 0.25);
 }
+
+/* contact section */
+
+
+
 @media (max-width: 798px) {
   .hero-section {
     min-height: auto;
