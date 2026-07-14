@@ -398,7 +398,15 @@ section[id] {
 
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .affirmation-track {
+    animation: none;
+  }
 
+  .affirmation-track.force-animation {
+    animation: affirmationTurn 16s ease-in-out infinite;
+  }
+}
 
 @media (max-width: 768px) {
   .card {
