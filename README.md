@@ -416,33 +416,166 @@ This approach helps create an accessible, supportive environment that aligns wit
 ---
 ## Website Features
 
+Lucid Minds includes the following features to provide an accessible and informative user experience:
+
+- Responsive Navigation Bar – A Bootstrap navigation bar with anchor links allows users to quickly navigate to each section of the webpage on desktop and mobile devices.
+
+- Hero Section – Introduces the purpose of the website with a clear heading, supporting text, and a call-to-action button that smoothly scrolls to the About section.
+
+- Positive Affirmation – Includes an encouraging message designed to leave visitors with a positive reminder about looking after their mental health.
+
+- About Mental Health – Provides a concise explanation of mental health and its importance using semantic HTML for improved accessibility.
+
+- Common Mental Health Challenges – Displays information about stress, anxiety, and low mood using responsive Bootstrap cards that adapt to different screen sizes.
+
+- Self-Care Tips – Presents practical wellbeing advice in an easy-to-read Bootstrap list group, helping users identify simple habits that support mental wellbeing.
+
+
+- Helpful Resources – Signposts users to trusted organisations through clearly labelled external links that open in a new browser tab.
+
+- Contact Form – Provides a responsive feedback form where visitors can submit suggestions for improving the website.
+
+- Accessibility – Built using semantic HTML, descriptive alternative text, keyboard-friendly navigation, and a colour palette chosen to provide strong colour contrast and improve readability. Animations have option to be reduced to ensure accessible experience.
+
+- Responsive Design – Developed with Bootstrap's grid system to ensure a consistent experience across desktop, tablet, and mobile devices.
 ---
 ## Tablet/Mobile View
 
 ---
 ## Future Features
 
----
-## Technologies Used
+Due to the scope and time constraints of the Code Institute assessment, several potential features were identified but were not included in the initial release of Lucid Minds. These enhancements would further improve the user experience, accessibility, and functionality of the website in future iterations.
 
- - HTML5
- - CSS3
- - Bootstrap 5
- - Font Awesome
- - Google Fonts
- - GitHub & Git
- - Copilot (image creation & code debugging)
+Future improvements planned for Lucid Minds include:
+
+- Add a dark mode option to improve accessibility and provide users with a choice of viewing preferences.
+
+- Include expandable information sections to provide more detailed guidance on additional mental health topics without overwhelming users.
+
+- Implement form validation and backend functionality so feedback can be submitted and stored securely.
+
+- Add a search feature to help users quickly find relevant content and resources.
+
+- Introduce downloadable wellbeing resources, such as self-care checklists and printable guides.
+
+- Expand the Resources section with additional trusted organisations and crisis support services.
+
+- Add subtle animations and interactive elements to improve engagement while maintaining accessibility.
+
+- Provide support for multiple languages to make the website accessible to a wider audience.
+
+---
+## Tools & Technologies
+
+| Tool / Tech | Use |
+| --- | --- |
+| [![badge](https://img.shields.io/badge/Markdown_Builder-grey?logo=markdown&logoColor=000000)](https://markdown.2bn.dev) | Generate README and TESTING templates. |
+| [![badge](https://img.shields.io/badge/Git-grey?logo=git&logoColor=F05032)](https://git-scm.com) | Version control. (`git add`, `git commit`, `git push`) |
+| [![badge](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=181717)](https://github.com) | Secure online code storage. |
+| [![badge](https://img.shields.io/badge/VSCode-grey?logo=htmx&logoColor=007ACC)](https://code.visualstudio.com) | Local IDE for development. |
+| [![badge](https://img.shields.io/badge/HTML-grey?logo=html5&logoColor=E34F26)](https://en.wikipedia.org/wiki/HTML) | Main site content and layout. |
+| [![badge](https://img.shields.io/badge/CSS-grey?logo=css&logoColor=1572B6)](https://en.wikipedia.org/wiki/CSS) | Design and layout. |
+| [![badge](https://img.shields.io/badge/GitHub_Pages-grey?logo=githubpages&logoColor=222222)](https://pages.github.com) | Hosting the deployed front-end site. |
+| [![badge](https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com) | Front-end CSS framework for modern responsiveness and pre-built components. |
+| [![badge](https://img.shields.io/badge/Font_Awesome-grey?logo=fontawesome&logoColor=528DD7)](https://fontawesome.com) | Icons. |
+| [![badge](https://img.shields.io/badge/Copilot-grey?logo=githubcopilot&logoColor=##000000)](https://github.com/copilot) | Help debug, troubleshoot, and explain things. |
+
+---
+## Agile Development Process
+
+### GitHub Projects
+
+[GitHub Projects](https://www.github.com/Azizr96/lucid-minds/projects) served as an Agile tool for this project. Through it, EPICs, User Stories, issues/bugs, and Milestone tasks were planned, then subsequently tracked on a regular basis using the Kanban project board.
+
+![screenshot](documentation/gh-projects.png)
+
+### GitHub Issues
+
+[GitHub Issues](https://www.github.com/Azizr96/lucid-minds/issues) served as an another Agile tool. There, I managed my User Stories and Milestone tasks, and tracked any issues/bugs.
+
+| Link | Screenshot |
+| --- | --- |
+| [![GitHub issues](https://img.shields.io/github/issues-search/Azizr96/lucid-minds?query=is%3Aissue%20is%3Aopen%20-label%3Abug&label=Open%20Issues&color=yellow)](https://www.github.com/Azizr96/lucid-minds/issues?q=is%3Aissue%20is%3Aopen%20-label%3Abug) | ![screenshot](documentation/gh-issues-open.png) |
+| [![GitHub closed issues](https://img.shields.io/github/issues-search/Azizr96/lucid-minds?query=is%3Aissue%20is%3Aclosed%20-label%3Abug&label=Closed%20Issues&color=green)](https://www.github.com/Azizr96/lucid-minds/issues?q=is%3Aissue%20is%3Aclosed%20-label%3Abug) | ![screenshot](documentation/gh-issues-closed.png) |
+
+### MoSCoW Prioritization
+
+I've decomposed my Epics into User Stories for prioritizing and implementing them. Using this approach, I was able to apply "MoSCoW" prioritization and labels to my User Stories within the Issues tab.
+
+- **Must Have**: guaranteed to be delivered - required to Pass the project (*max ~60% of stories*)
+- **Should Have**: adds significant value, but not vital (*~20% of stories*)
+- **Could Have**: has small impact if left out (*the rest ~20% of stories*)
+
+
 ---
 ## Deployment
 
+### GitHub Pages
+
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+
+- In the [GitHub repository](https://www.github.com/Azizr96/lucid-minds), navigate to the "Settings" tab.
+- In Settings, click on the "Pages" link from the menu on the left.
+- From the "Build and deployment" section, click the drop-down called "Branch", and select the **main** branch, then click "Save".
+- The page will be automatically refreshed with a detailed message display to indicate the successful deployment.
+- Allow up to 5 minutes for the site to fully deploy.
+
+The live link can be found on [GitHub Pages](https://azizr96.github.io/lucid-minds).
+
+### Local Development
+
+This project can be cloned or forked in order to make a local copy on your own system.
+
+#### Cloning
+
+You can clone the repository by following these steps:
+
+1. Go to the [GitHub repository](https://www.github.com/Azizr96/lucid-minds).
+2. Locate and click on the green "Code" button at the very top, above the commits and files.
+3. Select whether you prefer to clone using "HTTPS", "SSH", or "GitHub CLI", and click the "copy" button to copy the URL to your clipboard.
+4. Open "Git Bash" or "Terminal".
+5. Change the current working directory to the location where you want the cloned directory.
+6. In your IDE Terminal, type the following command to clone the repository:
+	- `git clone https://www.github.com/Azizr96/lucid-minds.git`
+7. Press "Enter" to create your local clone.
+
+Alternatively, if using Ona (formerly Gitpod), you can click below to create your own workspace using this repository.
+
+[![Open in Ona-Gitpod](https://ona.com/run-in-ona.svg)](https://gitpod.io/#https://www.github.com/Azizr96/lucid-minds)
+
+**Please Note**: in order to directly open the project in Ona (Gitpod), you should have the browser extension installed. A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
+
+#### Forking
+
+By forking the GitHub Repository, you make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository. You can fork this repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://www.github.com/Azizr96/lucid-minds).
+2. At the top of the Repository, just below the "Settings" button on the menu, locate and click the "Fork" Button.
+3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
+
 ---
 ## Testing
-
+> [!NOTE]  
+> For all testing, please refer to the [TESTING.md](TESTING.md) file.
 ---
 ## Credits & Attributions
 
+### Content
+- [Markdown Builder](https://markdown.2bn.dev)  Help generating Markdown files 
+
+### Media
+
 - All images were generated with Micorsoft Co-pilot
+- video was obtained from [Maudsley learning](https://maudsleylearning.com/) on what is mental health.
+
+### Frameworks, Icons and Fonts
+
 - Bootstrap framework were used throughout the project
 - Font Awesome icons were implemented
 - Google Fonts were imported into the project
-- video was obtained from [Maudsley learning](https://maudsleylearning.com/) on what is mental health.
+
+
+### Acknowledgements
+
+
+- I would like to thank Tim at Code Institute, [Tim Nelson](https://www.github.com/TravelTimN) for valuable advice on developing the project and providing the markdown builder web app.
