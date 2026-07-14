@@ -444,4 +444,5 @@ This approach helps create an accessible, supportive environment that aligns wit
 - All images were generated with Micorsoft Co-pilot
 - Bootstrap framework were used throughout the project
 - Font Awesome icons were implemented
-- Google FOnts were imported into the project
+- Google Fonts were imported into the project
+- video was obtained from [Maudsley learning](https://maudsleylearning.com/) on what is mental health.

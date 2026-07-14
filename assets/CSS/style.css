@@ -111,6 +111,41 @@ padding: 10px
   box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
 }
 
+/* tips section */
+
+#tips {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.tips-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0.375rem;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+}
+
+.tips-card {
+  padding: 1.5rem;
+  text-align: left;
+}
+
+.tip-list-header {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 1rem;
+}
+
+.tips-list-items {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.tips-list-items li + li {
+  margin-top: 0.65rem;
+}
+
 
 @media (max-width: 798px) {
   .hero-section {
@@ -118,6 +153,7 @@ padding: 10px
     padding: 5rem 0;
      background-position: center top;
   }
+
 
 }
 
