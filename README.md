@@ -14,6 +14,8 @@ The website provides accessible, beginner-friendly information on common mental 
 
 Designed with a clean, calming interface and a mobile-first approach, Lucid Minds delivers a consistent and user-friendly experience across desktop, tablet, and mobile devices.
 
+![responsive website view on desktop, laptop, tablet and mobile](testing/responsivness/responsivness.png)
+
 ---
 
 ## UX (User Experience)
@@ -322,6 +324,8 @@ Home
 │
 ├── Hero
 │
+├── Affirmations
+│
 ├── About Mental Health
 │
 ├── Common Mental Health Challenges
@@ -410,7 +414,17 @@ This approach helps create an accessible, supportive environment that aligns wit
 --- 
 ## Contents
 
-
+| Content | Screnshot |
+| ----------- | ----------- |
+| Navbar | ![navbar section](testing/user-stories/navbar.png) |
+| Hero with CTA | ![hero CTA section](testing/user-stories/hero-cta.png) |
+| Affirmations | ![Affirmations](testing/user-stories/affirmations.png) |
+| About | ![What is mental health](testing/user-stories/about.png) |
+| Challenges in mental health| ![Challenges in mental health](testing/user-stories/challenges.png) |
+| Tips for better mental health | ![Tips for better mental health](testing/user-stories/tips.png) |
+| Resources for organisations | ![resources to organisations to help with mental health](testing/user-stories/resources.png) |
+| Contact form | ![contact form](testing/user-stories/contact-form.png) |
+| Footer copyright | ![footer copyright information](testing/user-stories/footer.png) |
 
 
 ---
