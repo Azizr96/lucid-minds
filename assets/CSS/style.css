@@ -30,6 +30,24 @@ body {
 
 }
 
+section[id] {
+  scroll-margin-top: 5rem;
+}
+
+.sub-heading {
+  font-size: clamp(1.8rem, 3vw, 2.5rem);
+  font-weight: 800;
+  color: var(--text-primary);
+  margin-bottom: 0.75rem;
+}
+
+.sub3-heading {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 1rem;
+}
+
 /* navbar */
 
 .nav-link {
@@ -50,7 +68,7 @@ body {
 /* hero section */
 
 .hero-section {
-  padding: 4rem 0;
+  padding: 5rem 0;
   background-image: linear-gradient(rgba(17, 24, 39, 0.55), rgba(17, 24, 39, 0.45)), url('../images/hero-bg.png');
   background-size: cover;
   background-position: center;
@@ -81,8 +99,7 @@ body {
 /* about section */
 
 .about-section {
-  padding: 20px;
-  
+  padding: 4rem 0;
 }
 
 .mental-health-container {
@@ -90,17 +107,23 @@ body {
 }
 
 .video {
-padding: 10px
+  padding: 10px;
 }
 
 .textblock {
   text-align: center;
+  max-width: 40rem;
+  margin-inline: auto;
+}
+
+.textblock p {
+  line-height: 1.75;
 }
 
 /* challenges section */
 
 #challenges {
- margin-top: 20px;
+  padding: 4rem 0;
 }
 
 .card-container {
@@ -108,14 +131,22 @@ padding: 10px
 }
 .card {
   text-align: center;
+  border: 1px solid var(--border);
+  border-radius: 1rem;
   box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 36px rgba(15, 23, 42, 0.12);
 }
 
 /* tips section */
 
 #tips {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding: 4rem 0;
 }
 
 .tips-card {
@@ -170,7 +201,7 @@ padding: 10px
 }
 
 .quote span {
-  max-width: 16ch;
+  max-width: 10rem;
 }
 
 .quote-icon-left,
@@ -204,10 +235,16 @@ padding: 10px
   box-shadow: 0 0 0 0.2rem rgba(17, 94, 89, 0.25);
 }
 
+#resources .container > p {
+  max-width: 44rem;
+  margin-inline: auto;
+  line-height: 1.7;
+}
+
 /* contact section */
 
 #contact {
-  padding: 3rem 0 4rem;
+  padding: 4rem 0;
 }
 
 .contact-form-wrap {
@@ -244,7 +281,7 @@ padding: 10px
 /* footer section */
 
 .footer-section {
-  padding: 1.75rem 0;
+  padding: 2rem 0;
   border-top: 1px solid var(--border);
   background: var(--surface);
 }
@@ -273,12 +310,21 @@ padding: 10px
 @media (max-width: 798px) {
   .hero-section {
     min-height: auto;
-    padding: 5rem 0;
+    padding: 4.5rem 0;
      background-position: center top;
   }
 
   .quote {
     font-size: 1.5rem;
+  }
+
+  .about-section,
+  #challenges,
+  #tips,
+  #resources,
+  #contact {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
   }
 
 }
