@@ -28,3 +28,20 @@ body {
   color: var(--text-primary);
 
 }
+
+/* navbar */
+
+.nav-link {
+  color: var(--text-primary);
+}
+
+.nav-link:active {
+  color: var(--primary);
+}
+.nav-link:hover {
+  color: var(--primary)
+}
+
+.logo {
+  width: 150px;
+}
