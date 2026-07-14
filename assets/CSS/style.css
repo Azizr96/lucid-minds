@@ -280,7 +280,20 @@ section[id] {
   margin-top: 0.25rem;
 }
 
+/* success message modal */
+.success-modal {
+  border: 1px solid var(--border);
+  border-radius: 1rem;
+}
 
+.success-modal .modal-title {
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.success-modal .modal-body {
+  color: var(--text-secondary);
+}
 
 /* footer section */
 
