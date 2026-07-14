@@ -22,7 +22,9 @@
   margin: 0;
 }
 
-
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: 'Roboto', sans-serif;
   background: var(--background);
@@ -31,7 +33,7 @@ body {
 }
 
 section[id] {
-  scroll-margin-top: 126px;
+  scroll-margin-top: 7rem;
 }
 
 .sub-heading {
