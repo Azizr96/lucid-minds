@@ -227,7 +227,7 @@ Tasks
 - Style background. 
 
 
-
+---
 
 ### Strategy Plane
 
