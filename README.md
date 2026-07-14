@@ -353,7 +353,7 @@ The website follows a clear top-to-bottom flow that introduces users to increasi
 
 **Wireframes*
 
-![Lucid Minds wireframes mock up layout of webpage on mobile, tablet and desktop](assets/images/Wireframes.jpg)
+![Lucid Minds wireframes mock up layout of webpage on mobile, tablet and desktop](project-plan/wireframes.jpg)
 
 **Navigation**
 
@@ -376,7 +376,7 @@ To improve usability, the interface includes:
 ## Surface Plane / Design
 
 **Colour Palette**
-![Colour palette for the Lucid Minds website displaying the off-white background, white surface, dark slate primary text, slate secondary text, deep teal primary colour, navy secondary colour, darker hover states, and light grey border colour chosen to support a calm, accessible design.](assets/images/color-pallete.png)
+![Colour palette for the Lucid Minds website displaying the off-white background, white surface, dark slate primary text, slate secondary text, deep teal primary colour, navy secondary colour, darker hover states, and light grey border colour chosen to support a calm, accessible design.](project-plan/color-pallete.png)
 
 The palette was selected to promote feelings of trust, calmness, and clarity while maintaining strong colour contrast.
 
@@ -386,7 +386,7 @@ Images and icons are used sparingly to support content without distracting from 
 
 **Typography**
 
-![Roboto google font example](assets/images/font-style.png)
+![Roboto google font example](project-plan/font-style.png)
 Google fonts 'Roboto font' used for clear readable and accessible features
 
 **Layout**
