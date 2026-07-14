@@ -76,3 +76,22 @@ body {
   border-color: var(--primary-hover);
   color: #FFFFFF;
 }
+
+/* about section */
+
+.about-section {
+  padding: 20px;
+  
+}
+
+.mental-health-container {
+  margin-top: 20px;
+}
+
+.video {
+padding: 10px
+}
+
+.textblock {
+  text-align: center;
+}
