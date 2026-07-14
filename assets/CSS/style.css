@@ -183,6 +183,9 @@ padding: 10px
      background-position: center top;
   }
 
+  .quote {
+    font-size: 1.5rem;
+  }
 
 }
 
