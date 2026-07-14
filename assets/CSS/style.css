@@ -241,6 +241,10 @@ padding: 10px
   margin-top: 0.25rem;
 }
 
+/* footer section */
+
+
+
 @media (max-width: 798px) {
   .hero-section {
     min-height: auto;
