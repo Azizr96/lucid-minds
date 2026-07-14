@@ -176,6 +176,30 @@ padding: 10px
   font-size: 1.1em;
 }
 
+/* resources section */
+
+.btn-resource {
+  width: 100%;
+  border: 1px solid var(--primary);
+  background: var(--surface);
+  color: var(--primary);
+  border-radius: 0.75rem;
+  padding: 0.85rem 1rem;
+  font-weight: 600;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.btn-resource:hover,
+.btn-resource:focus {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #FFFFFF;
+  transform: translateY(-1px);
+}
+
+.btn-resource:focus-visible {
+  box-shadow: 0 0 0 0.2rem rgba(17, 94, 89, 0.25);
+}
 @media (max-width: 798px) {
   .hero-section {
     min-height: auto;
