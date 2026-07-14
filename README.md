@@ -487,7 +487,7 @@ Future improvements planned for Lucid Minds include:
 
 [GitHub Projects](https://www.github.com/Azizr96/lucid-minds/projects) served as an Agile tool for this project. Through it, EPICs, User Stories, issues/bugs, and Milestone tasks were planned, then subsequently tracked on a regular basis using the Kanban project board.
 
-![screenshot](documentation/gh-projects.png)
+![screenshot](project-plan/project-board.png)
 
 ### GitHub Issues
 
