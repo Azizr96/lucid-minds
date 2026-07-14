@@ -45,3 +45,15 @@ body {
 .logo {
   width: 150px;
 }
+
+/* hero section */
+
+.hero-section {
+  padding: 4rem 0;
+  background-image: linear-gradient(rgba(17, 24, 39, 0.55), rgba(17, 24, 39, 0.45)), url('../images/hero-bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+
