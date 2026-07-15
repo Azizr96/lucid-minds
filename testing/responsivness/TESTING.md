@@ -27,9 +27,9 @@ The screenshots below show the site at common viewport sizes used in browser res
 
 | Device | Viewport | Evidence |
 | ----------- | ----------- | ----------- |
-| Mobile | 320x667 | ![mobile screenshot 1](testing/responsivness/mobiles.png) <br> ![mobile screenshot 2](testing/responsivness/mobiles-2.png) <br> ![mobile screenshot 3](testing/responsivness/mobiles-3.png) <br> ![mobile screenshot 4](testing/responsivness/mobiles-4.png) <br> ![mobile screenshot 5](testing/responsivness/mobiles-5.png) |
-| Tablet | 768x1024 | ![tablet screenshot 1](testing/responsivness/tablet.png) <br> ![tablet screenshot 2](testing/responsivness/tablet-1.png) <br> ![tablet screenshot 3](testing/responsivness/tablet-2.png) <br> ![tablet screenshot 4](testing/responsivness/tablet-3.png) <br> ![tablet screenshot 5](testing/responsivness/tablet-4.png) |
-| Desktop | 1440x1100 | ![desktop screenshot 1](testing/responsivness/desktop.png) <br> ![desktop screenshot 2](testing/responsivness/desktop-1.png) <br> ![desktop screenshot 3](testing/responsivness/desktop-2.png) <br> ![desktop screenshot 4](testing/responsivness/desktop-3.png) <br> ![desktop screenshot 5](testing/responsivness/desktop-4.png) |
+| Mobile | 320x667 | ![mobile screenshot 1](testing/responsivness/mobiles.png)  ![mobile screenshot 2](testing/responsivness/mobiles-2.png)  ![mobile screenshot 3](testing/responsivness/mobiles-3.png)  ![mobile screenshot 4](testing/responsivness/mobiles-4.png)  ![mobile screenshot 5](testing/responsivness/mobiles-5.png) |
+| Tablet | 768x1024 | ![tablet screenshot 1](testing/responsivness/tablet.png)  ![tablet screenshot 2](testing/responsivness/tablet-1.png)  ![tablet screenshot 3](testing/responsivness/tablet-2.png)  ![tablet screenshot 4](testing/responsivness/tablet-3.png)  ![tablet screenshot 5](testing/responsivness/tablet-4.png) |
+| Desktop | 1440x1100 | ![desktop screenshot 1](testing/responsivness/desktop.png)  ![desktop screenshot 2](testing/responsivness/desktop-1.png)  ![desktop screenshot 3](testing/responsivness/desktop-2.png)  ![desktop screenshot 4](testing/responsivness/desktop-3.png)  ![desktop screenshot 5](testing/responsivness/desktop-4.png) |
 
 
 ---
