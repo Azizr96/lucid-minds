@@ -497,6 +497,13 @@ Future improvements planned for Lucid Minds include:
 | [![badge](https://img.shields.io/badge/Copilot-grey?logo=githubcopilot&logoColor=##000000)](https://github.com/copilot) | Help debug, troubleshoot, and explain things. |
 
 ---
+
+## AI Tool Usage 
+
+GitHub Copilot was used as a supporting development assistant during this project. It was primarily used to speed up troubleshooting, review potential improvements, and refine speeling/grammar and documentation.
+
+All planning, design decisions, implementation, testing, and final code changes were completed and validated by the project author. AI suggestions were reviewed critically and applied only where they aligned with project requirements and best practices.
+
 ## Agile Development Process
 
 ### GitHub Projects
@@ -578,6 +585,8 @@ By forking the GitHub Repository, you make a copy of the original repository on 
 
 ### Content
 - [Markdown Builder](https://markdown.2bn.dev)  Help generating Markdown files 
+- [Miro Wireframes](miro.com)
+- [Responsive multiple image](https://fireship.dev/amiresponsive)
 
 ### Media
 
@@ -596,3 +605,4 @@ By forking the GitHub Repository, you make a copy of the original repository on 
 
 
 - I would like to thank Tim at Code Institute, [Tim Nelson](https://www.github.com/TravelTimN) for valuable advice on developing the project and providing the markdown builder web app.
+- I would like to thank Marko at Code Institute, for providing advice on Agile methodologies on planning the project and providing resurces for Wireframes and valuable websites to aid with testing of the projects. 
