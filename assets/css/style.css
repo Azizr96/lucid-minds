@@ -405,6 +405,12 @@ section[id] {
   }
 }
 
+@media (min-width: 992px) {
+  .navbar > .container-fluid {
+    padding-right: 2rem;
+  }
+}
+
 @media (max-width: 768px) {
   .hero-section {
     min-height: auto;
