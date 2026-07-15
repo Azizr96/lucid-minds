@@ -521,8 +521,8 @@ All planning, design decisions, implementation, testing, and final code changes 
 
 | Link | Screenshot |
 | --- | --- |
-| [![GitHub issues](https://img.shields.io/github/issues-search/Azizr96/lucid-minds?query=is%3Aissue%20is%3Aopen%20-label%3Abug&label=Open%20Issues&color=yellow)](https://www.github.com/Azizr96/lucid-minds/issues?q=is%3Aissue%20is%3Aopen%20-label%3Abug) | ![screenshot](documentation/gh-issues-open.png) |
-| [![GitHub closed issues](https://img.shields.io/github/issues-search/Azizr96/lucid-minds?query=is%3Aissue%20is%3Aclosed%20-label%3Abug&label=Closed%20Issues&color=green)](https://www.github.com/Azizr96/lucid-minds/issues?q=is%3Aissue%20is%3Aclosed%20-label%3Abug) | ![screenshot](documentation/gh-issues-closed.png) |
+| [![GitHub issues](https://img.shields.io/github/issues-search/Azizr96/lucid-minds?query=is%3Aissue%20is%3Aopen%20-label%3Abug&label=Open%20Issues&color=yellow)](https://www.github.com/Azizr96/lucid-minds/issues?q=is%3Aissue%20is%3Aopen%20-label%3Abug) | ![screenshot](project-plan/open-issues.png) |
+| [![GitHub closed issues](https://img.shields.io/github/issues-search/Azizr96/lucid-minds?query=is%3Aissue%20is%3Aclosed%20-label%3Abug&label=Closed%20Issues&color=green)](https://www.github.com/Azizr96/lucid-minds/issues?q=is%3Aissue%20is%3Aclosed%20-label%3Abug) | ![screenshot](project-plan/closed-issues.png) |
 
 ### MoSCoW Prioritization
 
