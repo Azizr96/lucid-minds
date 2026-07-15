@@ -2,7 +2,7 @@
 
 This website was developed as part of Code Institute's first individual assessment project. It aims to provide a welcoming and supportive platform where users can explore mental health topics, access valuable resources, and discover practical tools to help manage everyday challenges and improve their overall well-being.
 
-Live Link: ![Lucid Minds - Mental Health Awareness](https://azizr96.github.io/lucid-minds/)
+Live Link: [Lucid Minds - Mental Health Awareness](https://azizr96.github.io/lucid-minds/)
 
 ---
 
