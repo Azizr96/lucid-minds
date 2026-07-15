@@ -25,6 +25,13 @@
 html {
   scroll-behavior: smooth;
 }
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   background: var(--background);
@@ -162,6 +169,14 @@ section[id] {
 
 .video {
   padding: 10px;
+}
+
+.info-video {
+  display: block;
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+  margin-inline: auto;
 }
 
 .textblock {
@@ -376,11 +391,21 @@ section[id] {
   font-weight: 600;
 }
 
-@media (max-width: 798px) {
+@media (prefers-reduced-motion: reduce) {
+  .affirmation-track {
+    animation: none;
+  }
+
+  .affirmation-track.force-animation {
+    animation: affirmationTurn 16s ease-in-out infinite;
+  }
+}
+
+@media (max-width: 768px) {
   .hero-section {
     min-height: auto;
     padding: 4.5rem 0;
-     background-position: center top;
+    background-position: center top;
   }
 
   .quote {
@@ -395,20 +420,8 @@ section[id] {
     padding-top: 3rem;
     padding-bottom: 3rem;
   }
-
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .affirmation-track {
-    animation: none;
-  }
-
-  .affirmation-track.force-animation {
-    animation: affirmationTurn 16s ease-in-out infinite;
-  }
-}
-
-@media (max-width: 768px) {
+ 
+ 
   .card {
     max-width: 22rem;
     margin-left: auto;
@@ -430,6 +443,123 @@ section[id] {
 
   .card-text {
     font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 576px) {
+  body {
+    padding-top: 112px;
+  }
+
+  section[id] {
+    scroll-margin-top: 6.5rem;
+  }
+
+  .navbar > .container-fluid {
+    padding-left: 0.85rem;
+    padding-right: 0.85rem;
+  }
+
+  .logo {
+    width: 124px;
+  }
+
+  .hero-section {
+    padding: 3.75rem 0;
+  }
+
+  .hero-section .lead {
+    font-size: 1rem;
+  }
+
+  .btn-hero {
+    width: 100%;
+    max-width: 18rem;
+  }
+
+  .affirmations-section {
+    padding-top: 1rem;
+  }
+
+  .affirmation-turnstile,
+  .affirmation-item {
+    height: 4.75rem;
+  }
+
+  .affirmation-item {
+    padding-inline: 0.85rem;
+    line-height: 1.4;
+  }
+
+  @keyframes affirmationTurn {
+    0%, 20% {
+      transform: translateY(0);
+    }
+    25%, 45% {
+      transform: translateY(-4.75rem);
+    }
+    50%, 70% {
+      transform: translateY(-9.5rem);
+    }
+    75%, 95% {
+      transform: translateY(-14.25rem);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+
+  .video {
+    padding: 0.5rem;
+  }
+
+  .tips-card {
+    padding: 1.25rem;
+    border-radius: 0 36px 0 36px;
+  }
+
+  .tips-list-items {
+    padding-left: 0;
+  }
+
+  .quote {
+    padding: 1.25rem 0.5rem 0;
+    gap: 0.35rem;
+    flex-direction: column;
+  }
+
+  .quote span {
+    max-width: 100%;
+  }
+
+  #resources .container > p {
+    padding-inline: 0.25rem;
+  }
+
+  .contact-form {
+    padding: 1.25rem !important;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+  body {
+    padding-top: 118px;
+  }
+
+  .hero-section {
+    padding: 4.25rem 0;
+  }
+
+  .quote {
+    padding-inline: 1rem;
+  }
+
+  .quote span {
+    max-width: 14rem;
+  }
+
+  .tips-card {
+    border-radius: 0 52px 0 52px;
   }
 }
 
