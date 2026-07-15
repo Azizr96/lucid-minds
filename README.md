@@ -446,6 +446,9 @@ Lucid Minds includes the following features to provide an accessible and informa
 
 - Self-Care Tips – Presents practical wellbeing advice in an easy-to-read Bootstrap list group, helping users identify simple habits that support mental wellbeing.
 
+- Animations were added to cards as a hover effect.
+
+- Affirmation section was animated to give a turnstile moving view showing a different quote every few seconds. this can be stopped for accesbility if the user prefers.
 
 - Helpful Resources – Signposts users to trusted organisations through clearly labelled external links that open in a new browser tab.
 
