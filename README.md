@@ -581,6 +581,7 @@ By forking the GitHub Repository, you make a copy of the original repository on 
 
 - All images were generated with Micorsoft Co-pilot
 - video was obtained from [Maudsley learning](https://maudsleylearning.com/) on what is mental health.
+- Images were resized and converted from png to webP using [Squoosh.app](https://squoosh.app/editor)
 
 ### Frameworks, Icons and Fonts
 
