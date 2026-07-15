@@ -9,7 +9,7 @@ Live Link: ![Lucid Minds - Mental Health Awareness](https://azizr96.github.io/lu
 ## Description
 
 Lucid Minds is a fully responsive, single-page website built with HTML, CSS, and the Bootstrap framework. It was created as part of Code Institute's first individual assessment to demonstrate responsive web design, semantic HTML, and modern CSS techniques.
-
+As a visitor, I want to provide feedback so that I can suggest improvements to the webpage. A confirmation message should show once I have provided feedback.
 The website provides accessible, beginner-friendly information on common mental health topics, including stress, anxiety and low mood. It also offers practical wellness tips and signposts users to trusted external support resources.
 
 Designed with a clean, calming interface and a mobile-first approach, Lucid Minds delivers a consistent and user-friendly experience across desktop, tablet, and mobile devices.
@@ -63,7 +63,7 @@ Tasks
 - Create hero section. 
 - Add headline. 
 - Add introductory text. 
-- tyle CTA button. 
+- Style CTA button. 
 - Apply accessible colours. 
 
 **US3 – Mental Health Information**
@@ -191,20 +191,22 @@ Tasks
 
 User Story
 
-As a visitor, I want to provide feedback so that I can suggest improvements to the webpage.
+As a visitor, I want to provide feedback so that I can suggest improvements to the webpage. A confirmation message should show once I have provided feedback.
 
 Acceptance Criteria
 
 - Form includes Name, Email and Message. 
 - Submit button is visible. 
 - Form layout is responsive. 
+- A confirmation message should appear when the form is submitted.
 
 Tasks
 
 - Build Bootstrap form. 
 - Add labels. 
 - Style form. 
-- Test responsiveness. 
+- Test responsiveness.
+- Add a modal success message pop-up. 
 
 *Could Have* 
 
@@ -243,7 +245,7 @@ As this project was developed for Code Institute's first individual assessment, 
 
 The website is intended for:
 
-- Individuals with little or no prior knowledge of mental health- 
+- Individuals with little or no prior knowledge of mental health
 - People looking for simple self-care advice
 - Visitors seeking reliable signposting to trusted organisations
 - Users accessing the website from desktop, tablet, or mobile devices
@@ -279,7 +281,7 @@ The website includes:
 - Responsive Bootstrap navigation bar
 - Hero section with call-to-action button
 - Smooth scrolling navigation
-- -About Mental Health section
+- About Mental Health section
 - Bootstrap cards describing common mental health challenges
 - Self-care tips displayed using a Bootstrap List Group
 - External links to trusted mental health organisations
@@ -414,13 +416,13 @@ This approach helps create an accessible, supportive environment that aligns wit
 --- 
 ## Contents
 
-| Content | Screnshot |
+| Content | Screenshot |
 | ----------- | ----------- |
 | Navbar | ![navbar section](testing/user-stories/navbar.png) |
 | Hero with CTA | ![hero CTA section](testing/user-stories/hero-cta.png) |
 | Affirmations | ![Affirmations](testing/user-stories/affirmations.png) |
 | About | ![What is mental health](testing/user-stories/about.png) |
-| Challenges in mental health| ![Challenges in mental health](testing/user-stories/challenges.png) |
+| Challenges in mental health | ![Challenges in mental health](testing/user-stories/challenges.png) |
 | Tips for better mental health | ![Tips for better mental health](testing/user-stories/tips.png) |
 | Resources for organisations | ![resources to organisations to help with mental health](testing/user-stories/resources.png) |
 | Contact form | ![contact form](testing/user-stories/contact-form.png) |
@@ -505,7 +507,7 @@ Future improvements planned for Lucid Minds include:
 
 ### GitHub Issues
 
-[GitHub Issues](https://www.github.com/Azizr96/lucid-minds/issues) served as an another Agile tool. There, I managed my User Stories and Milestone tasks, and tracked any issues/bugs.
+[GitHub Issues](https://www.github.com/Azizr96/lucid-minds/issues) served as another Agile tool. There, I managed my user stories and milestone tasks and tracked any issues or bugs.
 
 | Link | Screenshot |
 | --- | --- |
@@ -514,7 +516,7 @@ Future improvements planned for Lucid Minds include:
 
 ### MoSCoW Prioritization
 
-I've decomposed my Epics into User Stories for prioritizing and implementing them. Using this approach, I was able to apply "MoSCoW" prioritization and labels to my User Stories within the Issues tab.
+I've decomposed my epics into user stories for prioritising and implementing them. Using this approach, I was able to apply "MoSCoW" prioritisation and labels to my user stories within the Issues tab.
 
 - **Must Have**: guaranteed to be delivered - required to Pass the project (*max ~60% of stories*)
 - **Should Have**: adds significant value, but not vital (*~20% of stories*)
