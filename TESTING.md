@@ -58,7 +58,7 @@ Refer to user stories for full details in README.md
 | As a user, I want the website to be accessible so that I can easily read and navigate the content. | ![Lighthouse accessibility score](testing/accessibility/accessibilty-test.png) |
 | As a visitor using different devices, I want the website to display correctly on any screen size. | refer to responsivness section |
 | As a visitor, I want links to trusted organisations so that I can access further support if needed. | ![links to resources](testing/user-stories/resources.png) |
-| As a visitor, I want to provide feedback so that I can suggest improvements to the webpage. A confirmation message should show once I have provided feedback. | ![Contact form section](testing/user-stories/contact-form.png) ![Contact form success message modal](testing/user-stories/contact-form-modal.png) |
+| As a visitor, I want to provide feedback so that I can suggest improvements to the webpage. A confirmation message should show once I have provided feedback. | ![Contact form section](testing/user-stories/contact-form.png) ![Contact form success message modal](testing/user-stories/success-page.png) |
 | As a visitor, I want to read an encouraging message so that I leave the website feeling supported. | ![affirmations](testing/user-stories/affirmations.png) |
 ---
 ## Bugs
