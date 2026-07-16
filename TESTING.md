@@ -70,4 +70,4 @@ Refer to user stories for full details in README.md
 
 | Bugs | Picture | Comment |
 | ----------- | ----------- | ----------- |
-| Contact form does not clear once the Send Message button is clicked. | ![contact form filled not clearing](testing/bugs/contact-form-bug.png) | As there is no back end or JavaScript functionality, this bug cannot be fixed. It is out of the scope of this project. |
+| Method in the form html is GET and not POST no message will be sent | ![no message sent](testing/bugs/form-bug.png) | As there is no back end or email sending functionility as it is out of the scope of the project this was set to get to show the success page. |
