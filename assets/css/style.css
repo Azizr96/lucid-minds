@@ -202,12 +202,6 @@ section[id] {
   border-radius: 1rem;
   box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
   overflow: hidden;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 16px 36px rgba(15, 23, 42, 0.12);
 }
 
 /* tips section */
