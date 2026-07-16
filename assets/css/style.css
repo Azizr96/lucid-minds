@@ -364,19 +364,18 @@ section[id] {
 /* footer section */
 
 .footer-section {
-  padding: 2rem 0;
-  border-top: 1px solid var(--border);
-  background: var(--surface);
+  position: relative;
+  padding: 2.25rem 0;
+  border-top: 1px solid rgba(203, 213, 225, 0.85);
+  background: linear-gradient(180deg, #ffffff 0%, #f2f7f8 100%);
 }
 
-.footer-content {
-  color: var(--text-secondary);
-}
 
 .footer-title {
   color: var(--primary);
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 1.05rem;
+  letter-spacing: 0.01em;
 }
 
 .footer-text,
@@ -384,6 +383,26 @@ section[id] {
   font-size: 0.95rem;
   line-height: 1.5;
 }
+
+.footer-credit {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+}
+
+.footer-link {
+  color: var(--secondary);
+  font-weight: 700;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.18em;
+  transition: color 0.2s ease;
+}
+
+.footer-link:hover,
+.footer-link:focus {
+  color: var(--primary);
+}
+
 
 .footer-copy {
   color: var(--text-primary);
@@ -568,6 +587,10 @@ section[id] {
 
   .contact-form {
     padding: 1.25rem !important;
+  }
+
+  .footer-content {
+    gap: 0.35rem;
   }
 }
 
